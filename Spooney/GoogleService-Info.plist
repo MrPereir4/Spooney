@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390576948456-rshmu0srksl4l1mvbgl1b3q428j9gd5b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390576948456-rshmu0srksl4l1mvbgl1b3q428j9gd5b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBs8XAZ-GKx21g0zEs8Nikwbd3BLEJMCPA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390576948456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MRPereira.Spooney</string>
+	<key>PROJECT_ID</key>
+	<string>spooney-3518e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spooney-3518e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390576948456:ios:6160d0048ea01fdf5ef55d</string>
+	<key>DATABASE_URL</key>
+	<string>https://spooney-3518e.firebaseio.com</string>
+</dict>
+</plist>
