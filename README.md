@@ -21,7 +21,7 @@ Application created for personal finance control and capital management. With re
 9. View controller animation transitions
 
 ## More
-The app also recomends you the best way to spend and save your mony with a system that considers every single variable inside the app.
+The app also recomends you the best way to spend and save your money with a system that considers every single variable inside the app.
 
 ## Design
 The entire app design was designed by me, using Apple's human interface guidelines and minimalist user interface with smooth animations.
